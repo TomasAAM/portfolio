@@ -1,4 +1,4 @@
-# Tomás Aguirre Margery - Data Science Portfolio 🌱
+
 
 Welcome to my data science portfolio. This is where I share personal projects that reflect my interests and passions in data science. Each project is a learning experience, and while they may not be perfect, they are an opportunity for me to explore meaningful ideas and grow by doing. My goal is to apply concepts like **machine learning**, **data analysis**, and **visualization** to projects that I find both interesting and impactful.
 

@@ -99,8 +99,8 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/tomas-aguirre-margery/](#)
-- **GitHub**: [https://github.com/TomasAAM](#)
+- [**LinkedIn**](https://www.linkedin.com/in/tomas-aguirre-margery/)
+- [**GitHub**:](https://github.com/TomasAAM)
 
 ---
 

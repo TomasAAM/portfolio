@@ -8,7 +8,8 @@ Welcome to my data science portfolio. This is where I share personal projects th
 ## 📊 Featured Projects
 
 ### 1. **DESIGN AND EVALUATION OF A PREDICTION MODEL FOR SURGICAL PREDISPOSITION FOR PATIENT MANAGEMENT IN HEALTHCARE JOURNEYS**
-- **Description**: In this project, I developed a prediction model based on machine learning techniques aimed at optimizing the management of surgical patients. The study focused on addressing one of the main issues faced by patients: the lack of knowledge about the necessary actions to adequately prepare for their surgeries.
+- **Description**:
+In this project, I developed a prediction model based on machine learning techniques aimed at optimizing the management of surgical patients. The study focused on addressing one of the main issues faced by patients: the lack of knowledge about the necessary actions to adequately prepare for their surgeries.
 
 The project was carried out in collaboration with a private healthcare provider in Chile and utilized a multiclass classification approach. The model was designed to identify surgical patients early and proactively predict the most likely surgery they would undergo. Based on this prediction, a tool was developed to guide patients through their surgical journey, providing them with the necessary information to prepare and meet preoperative requirements.
 

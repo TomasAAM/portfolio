@@ -7,12 +7,19 @@ Welcome to my data science portfolio. This is where I share personal projects th
 
 ## 📊 Featured Projects
 
-### 1. **[Project Name 1]**
-- **Description**: 
-- **Tools used**: 
-- **Techniques and models**: 
-- **Results**: 
-- [Link to project repository](#)
+### 1. **DESIGN AND EVALUATION OF A PREDICTION MODEL FOR SURGICAL PREDISPOSITION FOR PATIENT MANAGEMENT IN HEALTHCARE JOURNEYS**
+- **Description**: In this project, I developed a prediction model based on machine learning techniques aimed at optimizing the management of surgical patients. The study focused on addressing one of the main issues faced by patients: the lack of knowledge about the necessary actions to adequately prepare for their surgeries.
+
+The project was carried out in collaboration with a private healthcare provider in Chile and utilized a multiclass classification approach. The model was designed to identify surgical patients early and proactively predict the most likely surgery they would undergo. Based on this prediction, a tool was developed to guide patients through their surgical journey, providing them with the necessary information to prepare and meet preoperative requirements.
+
+The implementation of the tool was evaluated in a pilot, which, for various reasons, did not yield the expected results. However, it served as a valuable starting point for identifying areas for improvement in the methodologies used.
+- **Tools used**: BigQuery, Looker Studio, Python, PowerBI, Scribe.
+- **Techniques and models**: PCA, PacMap, Umap, Logistic Regression, Decision Trees, Random Forests, XGBoost, AdaBoost, LightGBM, MLP, Optuna, Shap Values.
+- **Results**:
+     - *LightGBM:*
+            - Precision Macro: 0.81
+            - Recall Macro: 0.79
+            - F1-Score Macro: 0.80
 
 ---
 

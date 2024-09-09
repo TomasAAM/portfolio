@@ -58,8 +58,6 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 - **Key Contributions**:
   - Implemented machine learning techniques to predict potential surgical patients.
   - Utilized BigQuery for data extraction and transformation, preparing the dataset for model training.
-  - Designed an intervention strategy to improve patient outcomes by reducing the likelihood of missed surgeries.
-
 ---
 
 ### **Intern** - Caja Roja  

@@ -58,6 +58,7 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 - **Key Contributions**:
   - Implemented machine learning techniques to predict potential surgical patients.
   - Utilized BigQuery for data extraction and transformation, preparing the dataset for model training.
+    
 ---
 
 ### **Intern** - Caja Roja  
@@ -86,7 +87,6 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 - **Role Overview**: Participated in the update of process maps and manuals for the institution.
 - **Key Contributions**:
   - Assisted in improving internal documentation and workflows.
-
 
 ---
 

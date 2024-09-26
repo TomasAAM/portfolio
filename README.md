@@ -27,7 +27,7 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 - **Tools used**: Llama, Ollama, Selenium, BeautifulSoup, Streamlit 
 - **Techniques and models**: Llama3.2 
 - **Results**: In process
-- [https://github.com/TomasAAM/AI-Web-Scraper](#)
+- [Link to repository](https://github.com/TomasAAM/AI-Web-Scraper)
 
 ---
 

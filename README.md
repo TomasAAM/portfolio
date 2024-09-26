@@ -22,21 +22,12 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 
 ---
 
-### 2. **[Project Name 2]**
-- **Description**: 
-- **Tools used**: 
-- **Techniques and models**: 
-- **Results**: 
-- [Link to project repository](#)
-
----
-
-### 3. **[Project Name 3]**
-- **Description**: 
-- **Tools used**: 
-- **Techniques and models**: 
-- **Results**: 
-- [Link to project repository](#)
+### 2. **USING LLMS TO HELP IN PHONE BUYING DECISION (IN PROGRESS)**
+- **Description**: In this project, I am using Llama 3.2 to help people who may not necessarily be familiar with technology make the best decision when buying a new phone. The goal is for the chatbot to recommend the best option based on their preferences and phone needs.
+- **Tools used**: Llama, Ollama, Selenium, BeautifulSoup, Streamlit 
+- **Techniques and models**: Llama3.2 
+- **Results**: In process
+- [https://github.com/TomasAAM/AI-Web-Scraper](#)
 
 ---
 

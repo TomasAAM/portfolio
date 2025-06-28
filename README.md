@@ -23,7 +23,7 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 ---
 
 ### 2. **USING LLMS TO HELP IN PHONE BUYING DECISION (IN PROGRESS)**
-- **Description**: In this project, I am using Llama 3.2 to help people who may not necessarily be familiar with technology make the best decision when buying a new phone. The goal is for the chatbot to recommend the best option based on their preferences and phone needs.
+- **Description**: In this project, I am using Llama 3.2 to help people who might not be familiar with technology, make the best decision when buying a new phone. The goal is for the chatbot to recommend the best option based on their preferences and phone needs.
 - **Tools used**: Llama, Ollama, Selenium, BeautifulSoup, Streamlit 
 - **Techniques and models**: Llama3.2 
 - **Results**: In process
@@ -31,62 +31,6 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 
 ---
 
-## 🛠 Technical Skills
-
-- **Languages**: Python, R, SQL
-- **Libraries**: scikit-learn, Polars, pandas, numpy, matplotlib, seaborn, Pytorch, TensorFlow.
-- **Data Visualization**: Power BI, Tableau
-- **Models**: Regression, classification, clustering, time series
-
----
-
-## 💼 Work Experience
-
-### **Thesis Researcher** - RedSalud  
-**Dec 2023 - Jul 2024**
-
-- **Role Overview**: Developed a tool to identify surgical patients early, providing proactive guidance to ensure patients reach surgery. 
-- **Key Contributions**:
-  - Implemented machine learning techniques to predict potential surgical patients.
-  - Utilized BigQuery for data extraction and transformation, preparing the dataset for model training.
-    
----
-
-### **Intern** - Caja Roja  
-**Jul 2023 - Dec 2023**
-
-- **Role Overview**: Supported the creation of budgets and strategic guidelines for international expansion.
-- **Key Contributions**:
-  - Collected and optimized operational processes to increase efficiency.
-  - Analyzed talent management strategies, proposing improvements aligned with organizational goals.
-  - Developed strategic and analytical skills through cross-departmental collaboration.
-
----
-
-### **Intern** - European Southern Observatory (ESO)  
-**Mar 2023 - Jul 2023**
-
-- **Role Overview**: Worked on an anomaly detection project for the mirrors of the Very Large Telescope Interferometer (VLTI).
-- **Key Contributions**:
-  - Processed data and trained models using virtual machines on Azure.
-    
----
-
-### **Intern** - Banco Estado Express  
-**Jan 2022 - Mar 2022**
-
-- **Role Overview**: Participated in the update of process maps and manuals for the institution.
-- **Key Contributions**:
-  - Assisted in improving internal documentation and workflows.
-
----
-
-## 🎓 Education
-
-- **Industrial Engineering** – Universidad de Chile
-- **Master's in Data Science** – Universidad de Chile
-
----
 
 ## 🌐 Connect with Me
 

@@ -22,12 +22,10 @@ The implementation of the tool was evaluated in a pilot, which, for various reas
 
 ---
 
-### 2. **USING LLMS TO HELP IN PHONE BUYING DECISION (IN PROGRESS)**
-- **Description**: In this project, I am using Llama 3.2 to help people who might not be familiar with technology, make the best decision when buying a new phone. The goal is for the chatbot to recommend the best option based on their preferences and phone needs.
-- **Tools used**: Llama, Ollama, Selenium, BeautifulSoup, Streamlit 
-- **Techniques and models**: Llama3.2 
-- **Results**: In process
-- [Link to repository](https://github.com/TomasAAM/AI-Web-Scraper)
+### 2. **📱 Phone Recommendation Chatbot with Real-Time Web Scraping and LLM Integration**
+- **Description**: Developed an interactive phone recommendation assistant that combines a large language model (LLM) with real-time web scraping to help users find smartphones tailored to their needs and budget. The solution uses LangChain's agent framework to enable the LLM to autonomously call a custom scraping tool and provide up-to-date product suggestions from the site solotodo.cl.
+- **Tools used**: Python, LangChain, Gradio, Hugging Face Inference API, Selenium for dynamic scraping, Open-source LLMs (Mistral, LLaMA 3), Prompt engineering & agent orchestration
+- **Results**: Work in progress
 
 ---
 
